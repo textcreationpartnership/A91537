@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a brave exploit performed by Captain Richard Dawks, in taking of the Castle of Dover for the King and Parliament, and the safety of the whole kingdom, the quiet of the town of Dover, and all those parts of the country thereabouts, on the 21 of August, 1642. Which was never conquered or taken before, but by that worthy gent', Captain Rich: Dawks aforementioned. And set forth by Nicholas Payne, an inhabitant of Dover, for satisfaction of the whole kingdom: and by the consent of both the honourable Houses of Parliament: they have sent thither to be lieutenant of that castle, the noble and worthy knight, Sir Edward Boyse, one of the members of the House of Commons.</title>
+            <author>Payne, Nicholas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91537</idno>
+            <idno type="STC">Wing P894</idno>
+            <idno type="STC">Thomason E115_8</idno>
+            <idno type="STC">ESTC R10763</idno>
+            <idno type="EEBO-CITATION">99858882</idno>
+            <idno type="PROQUEST">99858882</idno>
+            <idno type="VID">110942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110942)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a brave exploit performed by Captain Richard Dawks, in taking of the Castle of Dover for the King and Parliament, and the safety of the whole kingdom, the quiet of the town of Dover, and all those parts of the country thereabouts, on the 21 of August, 1642. Which was never conquered or taken before, but by that worthy gent', Captain Rich: Dawks aforementioned. And set forth by Nicholas Payne, an inhabitant of Dover, for satisfaction of the whole kingdom: and by the consent of both the honourable Houses of Parliament: they have sent thither to be lieutenant of that castle, the noble and worthy knight, Sir Edward Boyse, one of the members of the House of Commons.</title>
+                  <author>Payne, Nicholas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. Norton and J. Field for C. A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 2. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dawks, Richard.</term>
+               <term>Dover Castle (Dover, England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110942:1" rendition="simple:additions"/>
+            <p>A True RELATION OF A brave Exploit performed by Captain <hi>RICHARD DAWKS,</hi> in taking of the Caſtle of DOVER</p>
+            <p>For the King and Parliament, and the ſafety of the whole Kingdom, the quiet of the Town of <hi>Dover,</hi> and all thoſe parts of the Country thereabouts, on the 21 of AUGUST, 1642.</p>
+            <p>Which was never conquered or taken before, but by that worthy Gent', Captain <hi>Rich: Dawks</hi> aforementioned.</p>
+            <p>AND Set forth by NICHOLAS PAYNE, an Inhabitant of <hi>Dover,</hi> for ſatisfaction of the whole Kingdom: And by the conſent of both the Honorable Houſes of <hi>Parliament:</hi> They have ſent thither to be Lieutenant of that Caſtle, the Noble and worthy Knight, Sir <hi>EDWARD BOYSE,</hi> one of the Members of the Houſe of COMMONS.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>L. Norton</hi> and <hi>J. Field</hi> for <hi>C. A.</hi> Sept. 2. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:110942:2"/>
+            <pb n="3" facs="tcp:110942:2"/>
+            <head>A true Relation of a brave Exploit performed by Captain <hi>Richard Dawks,</hi> in taking of the Caſtle of Dover for the King and Parliament, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, firſt obſerve with me the ſituation of this Caſtle, which will make the exploit in taking of it to be the better judged of.</p>
+            <p>This Caſtle ſtands upon a very high Hill, which way ſoever you come to it, and joyns faſt upon the Sea; and when you approach this Caſtle, there is round about it, a wonderfull deep ditch before you come to the wals, which ditch is ſo deep, and the bank before the wall ſo ſteep and high, that you can very hardly in any place of it attain to the walls of the ca<g ref="char:EOLhyphen"/>ſtle, but you will be forced to crawl upon your hands and your feet: And upon the top of this ſteep ditch, the wall is of a very great height round about, ſo dif<g ref="char:EOLhyphen"/>ficult it is by any part towards the land to enter; and towards the ſea it is an exceeding high and ſteep cliff, ſo that it is impoſſible to enter that waves: And this caſtle is as it were the Key of the Kingdom, in that place, commanding both ſea and land to obey, and in this caſtle the whole country did ever confide in, to de<g ref="char:EOLhyphen"/>fend them from forrain Enemies, and home bred Re<g ref="char:EOLhyphen"/>bellion.</p>
+            <p>This caſtle and place of ſo great conſequence, hath for theſe many yeers been very much neglected by thoſe that have had the charge of it committed unto them,
+<pb n="4" facs="tcp:110942:3"/>inſomuch as that all that did live in thoſe parts, and all that knew the caſtle, and the conſequence of it, were a<g ref="char:EOLhyphen"/>fraid of ſome bad deſign to be wrought upon this King<g ref="char:EOLhyphen"/>dom at that place, either by a forrain or home bred Enemie; For I muſt tell you, it being neglected ſo long, it was able to make no defence to ſeaward againſt a forrain Enemie; but the ditch and ſteep bank round about the caſtle being ſo difficult to get up to the walls, 20 men within the walls might keep out 1000; and as now it is, it doth command the Town of Dover, and two other Forts adjoyning. And in this caſtle Sir <hi>John Ipſley</hi> being ſometime Lieutenant, he left there between 40 or 50 pieces of Ordnance and Canon, all well mounted upon good carriages: Alſo, he left there a brave Armory for about 500 or 600 men, and 160 barrels of powder, with all other Ammunition fit for a place of ſo great a conſequence; which was a great comfort to the country, and an honour to our Nation.</p>
+            <p>Since whoſe time, the Arms, Powder, and other Am<g ref="char:EOLhyphen"/>munition, is all gone, and no man can give an account what is become of it, and all the Ordnance in the caſtle diſmounted; yet His Majeſty ſtill put to a great charge for to maintain and keep a Garriſon there.</p>
+            <p>Now the Honorable Houſes of Parliament well knowing the conſequence of this caſtle, and the dange<g ref="char:EOLhyphen"/>rous of the Malignant and ſeditious Sect, Sir <hi>Edward Dearing</hi> had made in thoſe parts, were willing and deſi<g ref="char:EOLhyphen"/>rous to have taken in this caſtle, and to put the ſame in ſome ſafe and good hand, that they and the Kingdom might conſide and truſt in; and to that purpoſe about ſix weeks ago laſt paſt, or thereabouts, a Commiſſion was granted to a Gentleman of that country, to take it
+<pb n="5" facs="tcp:110942:3"/>in for the King and Parliament, whoſe name I here for<g ref="char:EOLhyphen"/>bear, but he found it to be ſo difficult a thing to do, that he gave over his proceeding in that buſineſſe: And Ca<g ref="char:EOLhyphen"/>ptain <hi>Dawks</hi> coming up to London about his affairs and buſineſſe, and meeting with ſome Parliament men of his acquaintance, who did ask him if it might be poſ<g ref="char:EOLhyphen"/>ſible to take in the caſtle of Dover, for the ſafety of the King and Parliament, &amp; to be put into ſome ſafe hand, that the whole Kingdom might confide and truſt in; this caſtle being a place that was never conquered or taken before. Captain <hi>Dawks</hi> replyed, and told them, If it were their Honorable pleaſure to have it taken in, if they pleaſed for to give him a Warrant or Com<g ref="char:EOLhyphen"/>miſſion to take it in for the King and Parliament, he would adventure his life upon that ſervice for the good of the whole Kingdom: And upon this valiant Reſo<g ref="char:EOLhyphen"/>lution a Commiſſion was granted to captain <hi>Dawks</hi> to take in this caſtle, with all the other Forts that the ſaid caſtle did command.</p>
+            <p>And Captain <hi>Dawks</hi> having received this Com<g ref="char:EOLhyphen"/>miſſion from the Lord Generall, did upon the 21 day of <hi>August,</hi> 1642. about two of the clock in the mor<g ref="char:EOLhyphen"/>ning at the North ſide of the caſtle, enter himſelf and ten men more to take the ſame Caſtle, and being all gotten over the walls with a ſcaling ladder, did about four a clock walke about the caſtle, and finding all thoſe that kept houſe within the caſtle walls to be ſafe in bed.</p>
+            <p>Then himſelf and the other ten men did repart to the caſtle gates, to ſee what guard was kept there, and there they found but four men with their ſwords whom he diſarm'd, and put them into the Porters lodge, and
+<pb n="6" facs="tcp:110942:4"/>about two hours after this, the other Souldiers that did lodge within the caſtle being riſen from bed and come abroad, as he met with them he diſarm'd them, and put them in to the other four at the gate, and having diſar<g ref="char:EOLhyphen"/>med them all, Captain <hi>Dawks</hi> repaired to the Gentle<g ref="char:EOLhyphen"/>man Porters lodging and ſound him in bed, and knock<g ref="char:EOLhyphen"/>ing at his door, the Gentleman Porter asked them what they would have, captain <hi>Dawks</hi> told him the keyes of the caſtle, and that he had a commiſſion from the Ho<g ref="char:EOLhyphen"/>nourable houſe of Parliament ſo to do, the Gentleman Porter at the firſt refuſed to open his door; But cap<g ref="char:EOLhyphen"/>tain <hi>Dawks</hi> being no wayes diſmayed at his anſwer, and reſolved to go forwards with what he had begun, and to have the keyes, preſently begun to ſhove open the door upon him, which the Gentleman Porter perceiving, cryed out to him to hold his hand, and hee would come to them, and immediatly he came to them, and deſired captain <hi>Dawks</hi> to ſhow his commiſſion, which captain <hi>Dawks</hi> did, the Gentleman Porter at the firſt made light of it, and ſaid that for ought that he did know it might be made under a hedge; captain <hi>Dawks</hi> being very angry at thoſe words, forc'd him preſently to deliver the keyes to him: having now gotten the keys and poſſeſſion, he put out all the Souldiers that did be<g ref="char:EOLhyphen"/>long to the caſtle for ſome ſhort time out of the gates, and then ſearching to ſee what Powder and Ammu<g ref="char:EOLhyphen"/>nition he could finde in the caſtle in the ſtore houſes, and after good ſearch could not finde one pound of Powder in all the caſtle, which made him very much to wonder.</p>
+            <p>Now he hoped that ſome good and well-affected people in Dover would have been ayding and aſſiſting
+<pb n="7" facs="tcp:110942:4"/>to him about his good work, conſidering the dange<g ref="char:EOLhyphen"/>rouſneſſe of theſe times; but the chiefeſt ſort of the people in that Town, and the greateſt number being ſo ſeaſoned by Sir <hi>Edward Dearings</hi> circuit, that in ſtead of ayding or aſſiſting of him about this buſineſſe, they threaten to raiſe the Trained Band upon him, and to ſtarve them out if they would not deliver the Caſtle back again, and they took ſuch ayd away as was ſent to him by ſome good and well-affected people of the Town, as powder, ſhot, and match, and ſome other Arms, not ſo much as his wearing cloaths were ſuffe<g ref="char:EOLhyphen"/>red to be carryed to him, and to ſhew their indignati<g ref="char:EOLhyphen"/>on againſt Captain <hi>Dawks</hi> for this work, a Captain whoſe name I here forbear, ſet two pieces of Ordnance bolt upright to ſhoot into the Caſtle or the Air, think<g ref="char:EOLhyphen"/>ing to finde him there, and thus for the ſpace of four houres Captain <hi>Dawks</hi> was faine with ten men for to ſtand upon his guard with the Malignant parties.</p>
+            <p>At length the Noble Earl of Warwick underſtan<g ref="char:EOLhyphen"/>ding what Captain <hi>Dawks</hi> had done, ſent unto him 40 men with Muſquets all very well provided, and alſo ſent him ſome victuall, ſuch as at preſent he could ſpare: And the Noble Earl hearing that the major part of the Town of Dover, to be ſo ill inclined to that good work, ſent expreſly to the worthy Citie of Can<g ref="char:EOLhyphen"/>terbury, requeſting them to afford Captain <hi>Dawks</hi> ſome aid from them; who no ſooner had notice what was done by him, but preſently the Drum beat about the Citie for Voluntiers to go to Dover Caſtle to aid Captain <hi>Dawks,</hi> and in a very ſhort time there came in 160 able men, being all men of good faſhion, who the next morning marched to Dover Caſtle, with their
+<pb n="8" facs="tcp:110942:5"/>drums beating, and their colours flying, to aid Cap<g ref="char:EOLhyphen"/>tain <hi>Dawks,</hi> and that worthy Citie of Canterbury, the better to encourage Captain <hi>Dawks,</hi> and to in<g ref="char:EOLhyphen"/>able him, to defend him from all that ſhould oppoſe him, ſent along with their Souldiers a cartload of pow<g ref="char:EOLhyphen"/>der and other Ammunition, and alſo the Noble Earl of Warwick hath ſent to captain <hi>Dawks</hi> more powder and Ammunition; And now Captain <hi>Dawks</hi> be<g ref="char:EOLhyphen"/>gins to take comfort, and <hi>Dearings</hi> faction in Dover are now afraid that they ſhall not rule as formerly they have done, and captain <hi>Dawks</hi> to get victuals for his ho<g ref="char:EOLhyphen"/>neſt Souldiers, like a brave Gentleman doth advance his own mony to provide fatt Oxen, and fatt ſheep, with bacon, butter, cheeſe, yea bread, beer, and all things elſe that's fit for men, likewiſe for timber he doth not ſpare to mount his guns to put our enemies in feare, ſo now by Gods good bleſſing and Captaine <hi>Dawks</hi> brave and valiant adventure, that place is now in ſafe ſecurity to the good of the whole Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
